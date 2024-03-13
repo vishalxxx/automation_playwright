@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-12T20:49:58 IST" name="Default suite" finished-at="2024-03-12T20:50:03 IST" duration-ms="4218">
+    <groups>
+    </groups>
+    <test started-at="2024-03-12T20:49:58 IST" name="Default test" finished-at="2024-03-12T20:50:03 IST" duration-ms="4218">
+      <class name="automation_playwright.Flipkart_automation">
+        <test-method signature="signin()[pri:0, instance:automation_playwright.Flipkart_automation@78047b92]" started-at="2024-03-12T20:49:58 IST" name="signin" finished-at="2024-03-12T20:50:03 IST" duration-ms="4206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+      </class> <!-- automation_playwright.Flipkart_automation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
